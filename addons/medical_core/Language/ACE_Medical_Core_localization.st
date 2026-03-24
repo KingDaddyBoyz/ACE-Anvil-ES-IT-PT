@@ -8,7 +8,9 @@ StringTable {
    Target_es_es "Médico"
    Target_ko_kr "의료"
    Target_pt_br "Médico"
-   Modified 1750691845
+   Target_es_es "Médico"
+   Target_it_it "Medico"
+   Modified 1699833891
    Author "Kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -17,11 +19,12 @@ StringTable {
    Target_en_us "Resilience"
    Target_it_it "Resilienza"
    Target_de_de "Resilienz"
-   Target_es_es "Resiliencia"
    Target_ko_kr "회복력"
    Target_pt_br "Resiliência"
    Target_zh_cn "恢復力"
-   Modified 1750691853
+   Target_es_es "Resiliencia"
+   Target_it_it "Resilienza"
+   Modified 1725220405
    Author "Kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -38,7 +41,9 @@ StringTable {
    Target_pt_br "Injetar epinefrina"
    Target_zh_cn "注射腎上腺素"
    Target_uk_ua "Вколоти адреналін"
-   Modified 1750691870
+   Target_es_es "Inyectar epinefrina"
+   Target_it_it "Somministrare adrenalina"
+   Modified 1725220431
    Author "kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -55,7 +60,9 @@ StringTable {
    Target_pt_br "Sem dor"
    Target_zh_cn "無疼痛"
    Target_uk_ua "Не відчуває болю"
-   Modified 1750691885
+   Target_es_es "Sin dolor"
+   Target_it_it "Nessun dolore"
+   Modified 1725496849
    Author "kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -72,7 +79,9 @@ StringTable {
    Target_pt_br "Consciente"
    Target_zh_cn "未昏迷"
    Target_uk_ua "У свідомості"
-   Modified 1750691898
+   Target_es_es "Consciente"
+   Target_it_it "Non incosciente"
+   Modified 1725220523
    Author "kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -89,7 +98,9 @@ StringTable {
    Target_pt_br "Ferido gravemente"
    Target_zh_cn "傷勢過重"
    Target_uk_ua "Надто поранений"
-   Modified 1750691910
+   Target_es_es "Herido grave"
+   Target_it_it "Eccessivamente ferito"
+   Modified 1725497083
    Author "kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -106,7 +117,9 @@ StringTable {
    Target_pt_br "Aumenta as possibilidades de acordar"
    Target_zh_cn "增加甦醒機率"
    Target_uk_ua "Збільшує ймовірність пробудження"
-   Modified 1750691942
+   Target_es_es "Aumenta las posibilidades de despertarse"
+   Target_it_it "Aumenta la probabilità di ripresa della coscienza"
+   Modified 1725220754
    Author "kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -123,7 +136,9 @@ StringTable {
    Target_pt_br "Aliviar dor intensa"
    Target_zh_cn "緩解劇烈疼痛"
    Target_uk_ua "Знімає сильний біль"
-   Modified 1750691953
+   Target_es_es "Aliviar dolor intenso"
+   Target_it_it "Allevia il dolore severo"
+   Modified 1725220793
    Author "kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -140,7 +155,9 @@ StringTable {
    Target_pt_br "Administrado a pacientes inconscientes."
    Target_zh_cn "給予昏迷的患者使用"
    Target_uk_ua "Призначають пацієнтам без свідомості."
-   Modified 1750691988
+   Target_es_es "Administrado a pacientes inconscientes."
+   Target_it_it "Somministrato a pazienti incoscienti."
+   Modified 1725223370
    Author "kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -157,7 +174,9 @@ StringTable {
    Target_pt_br "Epinefrina"
    Target_zh_cn "腎上腺素"
    Target_uk_ua "Ін'єкція адреналіну"
-   Modified 1750692002
+   Target_es_es "Epinefrina"
+   Target_it_it "Adrenalina"
+   Modified 1725220837
    Author "kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -174,7 +193,9 @@ StringTable {
    Target_pt_br "Administrado a pacientes com dor intensa."
    Target_zh_cn "用於治療劇烈疼痛的患者"
    Target_uk_ua "Призначають пацієнтам із сильним болем."
-   Modified 1750692023
+   Target_es_es "Administrado a pacientes con dolor intenso."
+   Target_it_it "Somministrato a pazienti con dolore severo."
+   Modified 1725222289
    Author "kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -183,11 +204,12 @@ StringTable {
    Target_en_us "Open medical radial menu"
    Target_it_it "Apri menu medico radiale"
    Target_de_de "Öffne medizinisches Kreismenü"
-   Target_es_es "Abrir menú radial médico"
    Target_ko_kr "원형 의료 메뉴 열기"
    Target_pt_br "Abrir menu médico radial"
    Target_zh_cn "打開醫療環形選單"
-   Modified 1750692057
+   Target_es_es "Abrir menú radial médico"
+   Target_it_it "Apri menu medico radiale"
+   Modified 1725496962
    Author "Kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -196,11 +218,12 @@ StringTable {
    Target_en_us "Examine patient"
    Target_it_it "Valuta il paziente"
    Target_de_de "Patient untersuchen"
-   Target_es_es "Examinar paciente"
    Target_ko_kr "환자 검사"
    Target_pt_br "Examinar paciente"
    Target_zh_cn "檢查傷患"
-   Modified 1750692066
+   Target_es_es "Examinar paciente"
+   Target_it_it "Valuta il paziente"
+   Modified 1725496555
    Author "Kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -209,11 +232,12 @@ StringTable {
    Target_en_us "Fluid Replacement"
    Target_it_it "Ripristino dei fluidi"
    Target_de_de "Volumentherapie"
-   Target_es_es "Reemplazar fluidos"
    Target_ko_kr "체액 복구"
    Target_pt_br "Substituir fluidos"
    Target_zh_cn "補液"
-   Modified 1750692076
+   Target_es_es "Reemplazar fluidos"
+   Target_it_it "Ripristino dei fluidi"
+   Modified 1725221453
    Author "Kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -222,11 +246,12 @@ StringTable {
    Target_en_us "Fracture management"
    Target_it_it "Gestione delle fratture"
    Target_de_de "Frakturbehandlung"
-   Target_es_es "Tratamiento de fracturas"
    Target_ko_kr "골절 관리"
    Target_pt_br "Tratamento de fraturas"
    Target_zh_cn "骨折處置"
-   Modified 1750692103
+   Target_es_es "Tratamiento de fracturas"
+   Target_it_it "Gestione delle fratture"
+   Modified 1725497003
    Author "Kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -235,11 +260,12 @@ StringTable {
    Target_en_us "Hemorrhage control"
    Target_it_it "Controllo delle emorragie"
    Target_de_de "Blutstillung"
-   Target_es_es "Control de hemorragia"
    Target_ko_kr "지혈"
    Target_pt_br "Controlo da hemorragia"
    Target_zh_cn "止血"
-   Modified 1750692114
+   Target_es_es "Control de hemorragia"
+   Target_it_it "Controllo delle emorragie"
+   Modified 1725221536
    Author "Kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -248,11 +274,12 @@ StringTable {
    Target_en_us "Medication"
    Target_it_it "Farmaci"
    Target_de_de "Medikation"
-   Target_es_es "Medicación"
    Target_ko_kr "약물"
    Target_pt_br "Medicação"
    Target_zh_cn "藥物治療"
-   Modified 1750692125
+   Target_es_es "Medicación"
+   Target_it_it "Farmaci"
+   Modified 1725221632
    Author "Kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -261,11 +288,13 @@ StringTable {
    Target_en_us "Put on back"
    Target_it_it "Posiziona supino"
    Target_de_de "Auf den Rücken drehen"
-   Target_es_es "Poner de espaldas"
    Target_ko_kr "똑바로 눕히기"
    Target_pt_br "Virar de costas"
-   Target_zh_cn "協助仰躺"
-   Modified 1750692142
+   Target_zh_cn "翻為仰躺"
+   Target_ko_kr "똑바로 눕히기"
+   Target_es_es "Poner de espaldas"
+   Target_it_it "Posiziona supino"
+   Modified 1725496394
    Author "Kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -274,11 +303,13 @@ StringTable {
    Target_en_us "Put in left recovery position"
    Target_it_it "Posiziona in decubito laterale sinistro"
    Target_de_de "In linke Bewusstlosenlagerung bringen"
-   Target_es_es "Poner en posición de recuperación izquierda"
    Target_ko_kr "좌측으로 회복자세 교정하기"
    Target_pt_br "Por em posição de recuperação esquerda"
-   Target_zh_cn "轉為左側復甦姿勢"
-   Modified 1750692198
+   Target_zh_cn "翻至左側復甦姿勢"
+   Target_ko_kr "좌측으로 회복자세 교정하기"
+   Target_es_es "Poner en posición de recuperación izquierda"
+   Target_it_it "Posiziona in decubito laterale sinistro"
+   Modified 1725496514
    Author "Kexanone"
    LastChanged "KingDaddyBoyz"
   }
@@ -287,11 +318,13 @@ StringTable {
    Target_en_us "Put in right recovery position"
    Target_it_it "Posiziona in decubito laterale destro"
    Target_de_de "In rechte Bewusstlosenlagerung bringen"
-   Target_es_es "Poner en posición de recuperación derecha"
    Target_ko_kr "우측으로 회복자세 교정하기"
    Target_pt_br "Por em posição de recuperação direita"
-   Target_zh_cn "轉為右側復甦姿勢"
-   Modified 1750692188
+   Target_zh_cn "翻至右側復甦姿勢"
+   Target_ko_kr "우측으로 회복자세 교정하기"
+   Target_es_es "Poner en posición de recuperación derecha"
+   Target_it_it "Posiziona in decubito laterale destro"
+   Modified 1725496522
    Author "Kexanone"
    LastChanged "KingDaddyBoyz"
   }

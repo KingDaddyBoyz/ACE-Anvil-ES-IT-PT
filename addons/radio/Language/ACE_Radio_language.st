@@ -10,7 +10,9 @@ StringTable {
    Target_ko_kr "무전기"
    Target_pt_br "Rádio"
    Target_zh_cn "無線電"
-   Modified 1750692234
+   Target_es_es "Radio"
+   Target_it_it "Radio"
+   Modified 1725493460
    Author "veteran29"
    LastChanged "KingDaddyBoyz"
   }
@@ -23,7 +25,9 @@ StringTable {
    Target_ko_kr "1 채널 송신음"
    Target_pt_br "Sinal sonoro de transmissão do canal 1"
    Target_zh_cn "Ch.1 傳輸蜂鳴聲"
-   Modified 1750692266
+   Target_es_es "Pitido de transmisión del canal 1"
+   Target_it_it "Segnale di trasmissione Canale 1"
+   Modified 1725493513
    Author "veteran29"
    LastChanged "KingDaddyBoyz"
   }
@@ -36,7 +40,9 @@ StringTable {
    Target_ko_kr "2 채널 송신음"
    Target_pt_br "Sinal sonoro de transmissão do canal 2"
    Target_zh_cn "Ch.2 傳輸蜂鳴聲"
-   Modified 1750692271
+   Target_es_es "Pitido de transmisión Ch.2"
+   Target_it_it "Segnale di trasmissione Canale 2"
+   Modified 1725493517
    Author "veteran29"
    LastChanged "KingDaddyBoyz"
   }
@@ -49,7 +55,9 @@ StringTable {
    Target_ko_kr "높음"
    Target_pt_br "Alto"
    Target_zh_cn "高音"
-   Modified 1750692280
+   Target_es_es "Alto"
+   Target_it_it "Alta"
+   Modified 1725492506
    Author "veteran29"
    LastChanged "KingDaddyBoyz"
   }
@@ -62,7 +70,9 @@ StringTable {
    Target_ko_kr "낮음"
    Target_pt_br "Baixo"
    Target_zh_cn "低音"
-   Modified 1750692714
+   Target_es_es "Bajo"
+   Target_it_it "bassa"
+   Modified 1725492514
    Author "veteran29"
    LastChanged "KingDaddyBoyz"
   }
@@ -75,7 +85,9 @@ StringTable {
    Target_ko_kr "없음"
    Target_pt_br "Desligado"
    Target_zh_cn "關閉"
-   Modified 1750692308
+   Target_es_es "Apagado"
+   Target_it_it "Spenta"
+   Modified 1725492519
    Author "veteran29"
    LastChanged "KingDaddyBoyz"
   }
@@ -88,9 +100,11 @@ StringTable {
    Target_ko_kr "무전기 순환음"
    Target_pt_br "Sinal sonoro do ciclo do transceptor"
    Target_zh_cn "頻道切換蜂鳴聲"
-   Modified 1750692322
+   Target_es_es "Pitido de ciclo del transceptor"
+   Target_it_it "Segnale di ciclo del ricetrasmettitore"
+   Modified 1725493711
    Author "veteran29"
-   LastChanged "KingDaddyBoyz"
+   LastChanged "KingDaddyBoyz""
   }
  }
 }
